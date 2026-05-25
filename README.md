@@ -97,7 +97,8 @@ umkmsejahtera/
     
 ## ⚙️ Installation
 Clone repository:
-git clone https://github.com/username/umkmsejahtera.git
+https://github.com/ajijahsidqia9090-cell/web-umkm.git
+
 Pindahkan ke folder:
 C:/laragon/www/
 Buat database:
