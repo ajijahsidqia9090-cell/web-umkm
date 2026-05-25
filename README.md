@@ -49,6 +49,8 @@ Tracking pengiriman
 Melihat riwayat transaksi
 
 ## 📂 Project Structure
+
+```bash
 umkmsejahtera/
 │
 ├── index.php                 → Halaman utama
@@ -77,22 +79,7 @@ umkmsejahtera/
 │   ├── pesanan.php           → Kelola pesanan
 │   └── user.php              → Kelola user
 │
-├── config/
-│   └── koneksi.php           → Koneksi database
-│
-├── template/
-│   ├── header.php
-│   ├── footer.php
-│   └── navbar.php
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── img/
-│   └── produk/
-│
-└── uploads/
-    └── produk/               → Upload gambar produk
+```
 
     
 ## ⚙️ Installation
